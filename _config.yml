@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Musawar
+first_name: Paul J.
 middle_name:
-last_name: Ali
+last_name: Parks
 contact_note: >
   The best way to reach me out is by sending me an e-mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -14,9 +14,9 @@ footer_text: >
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://engrmusawarali.github.io # the base hostname & protocol for your site
+url: https://pauljparks.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -164,7 +164,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -280,8 +280,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ali]
-  first_name: [Musawar]
+  last_name: [Parks]
+  first_name: [Paul J.]
 
   style: apa
   locale: en

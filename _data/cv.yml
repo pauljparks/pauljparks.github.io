@@ -1,11 +1,9 @@
 cv:
-  name: Musawar Ali
-  label: Computer Vision Engineer
-  email: engrmusawar@gmail.com
-  location: Via del Pozzo, No. 6 – 42121 Reggio Emilia (Italy)
+  name: Paul J. Parks
+  label: Economist
+  location:  Reggio Emilia (Italy)
   image: ""
-  summary: I did my undergraduate and master’s studies in Software/Computer Engineering in Pakistan. In March 2026, I completed my PhD in Computer Science and Engineering from University of Bologna. My areas of focus are computer vision, and generative models such as diffusion models and neural radiance fields. I am now seeking opportunities in Computer Vision and related fields so as to continueadvancing my work in these areas, with a preference for positions in Italy/Europe.
-
+  summary: Paul was a founder in two startups, one in Norway and the other in Nigeria, that work at the intersection of energy and climate on both policy development and project implementation. On climate, he was involved in some of the first and largest implementation projects under the UN Climate Protocols across Africa, the Middle East, and former Soviet States. In diplomacy he worked on global energy security, the Oslo Peace Accords in Palestine, and post-conflict issues in the Balkans. He has worked at the Organization for Economic Cooperation and Development, the US State Department (USAID) and for the United Nations Development Program, the World Bank and the European Bank for Reconstruction and development as well as major development agencies and private companies.
   social_networks:
     - network: X
       username: AlbertEinstein
@@ -15,76 +13,83 @@ cv:
       username: example
 
   address:
-    street: Via del Pozzo, 6
+    street: 
     city: Reggio Emilia
-    region:
-    postalCode: 42121, Italy
+    region: Italy
+    postalCode:
     countryCode: Italy
 
   sections:
     Education:
-      - institution: University of Bologna
-        location: Bologna, Italy
-        url: https://www.unibo.it/it
-        area: Computer Science and Engineering
-        studyType: PhD
-        start_date: 2022
-        end_date: 2026
-        score: ""
-        #courses: "Theory of Relativity"
-        #highlights:
-        #   - Description 1.
-        #  - Description 2.
+     
 
-      - institution: Ghulam Ishaq Khan Institute of Engineering Sciences and Technology
-        location: Swabi, Pakistan
-        area: Computer Engineering
+      - institution: Harvard University
         studyType: MS
-        start_date: 2018
-        end_date: 2020
+        area: Public Policy
+        location: Cambridge, USA
+        startDate: 1979
+        endDate: 1981
 
-      - institution: Mehran University of Engineering and Technology
-        location: Jamshoro, Pakistan
-        area: Software Engineering
-        studyType: BE
-        start_date: 2012
-        end_date: 2016
+      - institution: Southern Methodist University
+        location: Dallas, USA
+        area: Geology and Bachelor of Arts in Economics
+        studyType: BS
+        start_date: 1970
+        end_date: 1974
         # highlights#
         #  - Description 1.
         #  $ - Description 2.
 
     Experience:
-      - company: "EyeCan.AI"
-        position: PhD Researcher
-        location: Bologna, Italy
-        start_date: 2022
-        end_date: 2025
-        # summary:
+      - company: "Carbon-Limits Nigeria"
+        position: Managing Director and a Founder
+        location: Nigeria
+        start_date: 2010
+        end_date: 2022
+        summary: The startup was established in Lagos in 2010 as a Joint Venture between Carbon Limits (Norway) and Nigerian investors and was the first climate-focused start-up established in Africa. Projects included electricity generation, gas flare reduction, and biofuels that focused on reducing Greenhouse Gas (GHG) emissions and supporting sustainable development. Additionally the company worked with governments and donor agencies on climate policies and their implementation.
         # highlights:
         #  - Relativity
         # - Description 2.
-
-      - company: FAST National university of Computer and Emerging Sciences
-        position: Lecturer
-        location: Karachi, Pakistan
-        start_date: 2020
+      - company: Carbon Limits
+        position: Director and Partner
+        location: Oslo, Norway
+        start_date: 2004
         end_date: 2022
-      #  highlights:
-      #   - Description 1.
-      #   - Description 2.
+        summary: "This startup was a spin off from an existing Norwegian consulting firm and focused on developing energy projects covered under the UN Climate Protocols. The company did extensive work in the Russian Federation and former Soviet states as well as in Africa. A multiyear project under a Norwegian initiative assisted the Iranian Ministry of Petroleum on projects to reduce GHG emissions in the upstream sector."
+      
+      - company: Institute for Sustainable Communities
+        position: Country Director
+        location: Macedonia # (Formerly Republic of Macedonia)
+        start_date: 2002
+        end_date: 2004
+        summary: "Paul headed a major American (USAID) initiative on improving social and economic conditions within Macedonia and the Balkans. Activities ranged from local environment improvement, HIV/AIDS treatment and prevention, reducing human trafficking, and poverty alleviation among Roma. Mr. Parks was personally sited by both the States Department of State and the Government of Macedonia for “dedication and leadership” in the area of HIV/AIDS."
+      - company: Independent Consultant
+        position: Independent Consultant
+        location: Paris, France and Italy
+        start_date: 1997
+        end_date: 2002
+        summary: In Palestine, worked on a Norwegian project that analyzed the economic and social impacts in Palestine’s negotiations under the Oslo Peace Accords. In Kenya, Zimbabwe and Romania worked on GEF energy efficiency policies and project finance. In the Republic of Georgia, directed a UNDP project on reducing emissions from transport fuels and development of ambient air policy. In Azerbaijan under the UNDP worked on industrial restructuring as it entered a market economy.
+      - company: US Department of State (USAID)
+        position: Senior Environmental Investment Advisor
+        location: DC, USA
+        start_date: 1993
+        end_date: 1997
+        summary: His primary focus was the implementation of USAID´s program (approximately $6 million annually) to support environmental health investments and related policy development across Central Europe. A major initiative was reducing coal related pollution in Poland, Czech Republic, and Slovakia.
 
-      - company: Ghulam Ishaq Khan Institute of Engineering Sciences and Technology
-        position: Graduate Assistant
-        location: Swabi, Pakistan
-        start_date: 2018
-        end_date: 2020
-
+      - company: Organization of Economic Cooperation and Development (International Energy Agency)
+        position: Principal Administrator
+        location: Paris, France
+        start_date: 1986
+        end_date: 1989
+        summary: Responsible for research and providing assessments of energy trends and structural changes within the global oil and gas industry for member governments and industry
     Volunteer:
-      - company: The Indus Hospital
-        position: Software Engineer
-        location: Lahore, Pakistan
-        start_date: 2016
-        end_date: 2017
+      - company: Major US Energy Firms
+        position: Regional Planning Manager / Corporate Coordinator / Senior Project Manager
+        location: Texas, USA
+        start_date: 1975
+        end_date: 1983
+        summary: During this period, he was Regional Planning and Evaluation Manager for Occidental Petroleum; Corporate Coordinator for Economic Evaluation for El Paso Natural Gas and Senior Project Manager for Union Pacific Corporation energy division.
+   
         #location: Zurich, Switzerland
         #start_date: 2014-04-01
         # end_date: 2015-07-01
@@ -109,44 +114,7 @@ cv:
     #awarder: German Physical Society
     #summary: Awarded for outstanding scientific achievement
 
-    Publications:
-      - title: "NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects"
-        authors:
-              - Musawar Ali, Manuel Carranza-Garcia, Nicola Fioraio, Luigi Di Stefano, Samuele Salti,
-        publisher: International Conference on Pattern Recognition
-        releaseDate: 2026-09-15
-        url: https://arxiv.org/pdf/2602.05822
-        summary: "We propose NVS-HO, the first benchmark designed for novel view synthesis of handheld objects in real-world environments using only RGB inputs. Each object is recorded in two complementary RGB sequences: (1) a handheld sequence, where the object is manipulated in front of a static camera, and (2) a board sequence, where the object is fixed on a ChArUco board to provide accurate camera poses via marker
-      detection. The goal of NVS-HO is to learn a NVS model that captures the
-      full appearance of an object from (1), whereas (2) provides the groundtruth images used for evaluation. To establish baselines, we consider both
-      a classical SfM pipeline and a state-of-the-art pre-trained feed-forward
-      neural network (VGGT) as pose estimators, and train NVS models based
-      on NeRF and Gaussian Splatting. Our experiments reveal significant performance gaps in current methods under unconstrained handheld conditions, highlighting the need for more robust approaches. NVS-HO thus
-      offers a challenging real-world benchmark to drive progress in RGB-based
-      novel view synthesis of handheld objects."
-      - title: Few-Shot Anomaly Classification by Learning to Inpaint Nominal Images
-        authors:
-          - Rubin Carkaxhia, Musawar Ali, Nicola Fioraio, Luigi Di Stefano, Samuele Salti,
-        publisher: International Conference on Image Analysis and Processing
-        releaseDate: 2025-09-15
-        url: https://link.springer.com/chapter/10.1007/978-3-032-10185-3_41
-        summary: Automated inspection is a crucial aspect in modern industrial manufacturing. Despite its importance, the methods used to perform it suffer from the data scarcity intrinsic to the problem, where only a few anomalous samples are usually available. Recently, fine-tuning of foundation inpainting models has been proposed as a solution. The fine-tuned model is then used to inpaint nominal images where areas corresponding to defective masks have been removed. While effective, random pairing sometimes applies the mask on background or logically unfeasible areas. To counteract this phenomenon, we experiment with generating high-resolution defective images inpainting the few available real defects. Since the resulting images would show limited variance in the non-defective parts, we propose to fine-tune another inpainting model to change nominal parts of generated images. Experimental results on the MVTec-AD dataset demonstrate that our method generates images with complementary properties with respect to those produced by the baseline and training on an ensemble of generated data produces a new state of the art result.
-
-      - title: "AnomalyControl: Few-Shot Anomaly Generation by ControlNet Inpainting"
-        authors:
-          - Musawar Ali, Nicola Fioraio, Samuele Salti, Luigi Di Stefano
-        publisher: IEEE Access
-        releaseDate: 2024-12-18
-        url: https://ieeexplore.ieee.org/abstract/document/10806704/
-        summary: Quality inspection tasks, i.e., anomaly detection, localization and classification, face the scarcity of non-nominal images in real industrial scenarios. Hence, generative models have been explored as a tool to obtain defective images from few real labelled samples. Despite the fast-increasing quality of such models, generating realistic defective images remains a challenging task due to the same data scarcity problem, which makes it difficult to steer large general-purpose models to produce realistic defects for specific industrial products. In this paper, we show how casting defect generation as inpainting of nominal images and using ControlNet to specialize a state-of-the-art inpainting model based on stable diffusion can be an effective solution for the few-shot anomaly generation task. Extensive experimental results on the MVTec-AD dataset demonstrate that the high quality of the images generated by our method significantly improves the state of the art on downstream anomaly classification.
-
-      - title: "A novel framework for generating handwritten datasets"
-        authors:
-          - Sajid Anwar, Bilal Mehrban, Musawar Ali, Farhan Hussain, Zahid Halim
-        publisher: Multimedia Tools and Applications
-        releaseDate: 2021-03-01
-        url: https://link.springer.com/article/10.1007/s11042-020-09545-7
-        summary: "The performance of deep learning algorithms is highly dependent on the size and diversity of data. However, for handwritten character recognition, dataset creation, segmentation, and labeling are time consuming and laborious tasks and not much researched. This work proposes a novel and generic framework which automates the segmentation and labeling processes for handwritten datasets. First, a user collects handwritten glyphs on the proposed form. Next, based on a priori knowledge, local peaks from horizontal and vertical projection functions are computed. This helps in locating and segmenting individual samples automatically. To show the effectiveness of the proposed framework, a dataset of 160,000 samples is collected for an oriental language. We profile the segmentation of samples from one sheet with three approaches: manual, semi-automatic, and the proposed fully automatic approach. Compared to the manual and semi-automatic processes, the proposed approach is 120 × and 65 × faster, respectively. Further, we also present the classification of this dataset by traditional and state-of-the-art machine learning algorithms."
+    
 
       #  Skills:
     #   - name: Physics
@@ -155,17 +123,17 @@ cv:
     #  keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: Sindhi
+      - name: English
         summary: "Native Speaker"
 
-      - name: Urdu
-        summary: "Fluent"
-
-      - name: English
-        summary: "Fluent"
-
       - name: Italian
-        summary: "Basic"
+        summary: "Fluent"
+
+      - name: French
+        summary: "Good"
+
+      - name: Spanish
+        summary: "Good"
 
     # Interests:
     #  - name: Computer Vi
