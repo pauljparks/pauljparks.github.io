@@ -55,7 +55,8 @@
               "ViewState": "AgIAAKIAAAAAAAAAAAAAAAUAAAAYAwAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-06-18T10:02:45.587Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,7 +66,7 @@
               "RelativeDocumentMoniker": "_layouts\\cv.liquid",
               "ToolTip": "D:\\New folder\\pauljparks.github.io\\_layouts\\cv.liquid",
               "RelativeToolTip": "_layouts\\cv.liquid",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAewEwAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-06-18T10:32:43.373Z",
               "EditorCaption": ""
@@ -80,7 +81,8 @@
               "RelativeToolTip": "_sass\\_cv.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2026-06-18T10:29:31.857Z"
+              "WhenOpened": "2026-06-18T10:29:31.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +94,8 @@
               "RelativeToolTip": "assets\\json\\table_data.json",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-18T10:27:49.119Z"
+              "WhenOpened": "2026-06-18T10:27:49.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,7 +107,8 @@
               "RelativeToolTip": "assets\\json\\resume.json",
               "ViewState": "AgIAAMUAAAAAAAAAAAAUwN0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-18T10:27:38.185Z"
+              "WhenOpened": "2026-06-18T10:27:38.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,7 +120,8 @@
               "RelativeToolTip": "_pages\\about.md",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T09:59:50.454Z"
+              "WhenOpened": "2026-06-18T09:59:50.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -128,7 +133,8 @@
               "RelativeToolTip": "_layouts\\about.liquid",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-18T09:59:48.468Z"
+              "WhenOpened": "2026-06-18T09:59:48.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,7 +146,8 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AgIAAIsCAAAAAAAAAAAhwIsCAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-06-18T09:52:21.783Z"
+              "WhenOpened": "2026-06-18T09:52:21.783Z",
+              "EditorCaption": ""
             }
           ]
         }

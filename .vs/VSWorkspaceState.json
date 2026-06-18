@@ -5,7 +5,6 @@
     "\\assets\\json",
     "\\assets\\pdf",
     "\\_layouts",
-    "\\_sass\\font-awesome",
     "\\_scripts"
   ],
   "SelectedNode": "\\_layouts\\cv.liquid",
