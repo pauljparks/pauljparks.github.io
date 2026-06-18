@@ -1,9 +1,10 @@
 cv:
   name: Paul J. Parks
-  label: Economist
+  label: Consultant
   location:  Reggio Emilia (Italy)
   image: ""
-  summary: Paul was a founder in two startups, one in Norway and the other in Nigeria, that work at the intersection of energy and climate on both policy development and project implementation. On climate, he was involved in some of the first and largest implementation projects under the UN Climate Protocols across Africa, the Middle East, and former Soviet States. In diplomacy he worked on global energy security, the Oslo Peace Accords in Palestine, and post-conflict issues in the Balkans. He has worked at the Organization for Economic Cooperation and Development, the US State Department (USAID) and for the United Nations Development Program, the World Bank and the European Bank for Reconstruction and development as well as major development agencies and private companies.
+  summary: Paul was a founder in two startups, one in Norway and the other in Nigeria, that work at the intersection of energy and climate on both policy development and project implementation. On climate, he was involved in some of the first and largest implementation projects under the UN Climate Protocols across Africa, the Middle East, and former Soviet States. In diplomacy he worked on global energy security, the Oslo Peace Accords in Palestine, and post-conflict issues in the Balkans. He worked at the Organization for Economic Cooperation and Development, the US State Department (USAID) and on projects for the United Nations Development Program, the World Bank and the European Bank for Reconstruction and Development as well as major development agencies and private companies.
+
   social_networks:
     - network: X
       username: AlbertEinstein
@@ -24,16 +25,16 @@ cv:
      
 
       - institution: Harvard University
-        studyType: MS
-        area: Public Policy
+        studyType: Master in Public Policy
+        area: 
         location: Cambridge, USA
         startDate: 1979
         endDate: 1981
 
       - institution: Southern Methodist University
         location: Dallas, USA
-        area: Geology and Bachelor of Arts in Economics
-        studyType: BS
+        area: Geology and Economics
+        studyType: Bachelor of Science and Bachelor of Arts
         start_date: 1970
         end_date: 1974
         # highlights#
@@ -62,32 +63,32 @@ cv:
         location: Macedonia # (Formerly Republic of Macedonia)
         start_date: 2002
         end_date: 2004
-        summary: "Paul headed a major American (USAID) initiative on improving social and economic conditions within Macedonia and the Balkans. Activities ranged from local environment improvement, HIV/AIDS treatment and prevention, reducing human trafficking, and poverty alleviation among Roma. Mr. Parks was personally sited by both the States Department of State and the Government of Macedonia for “dedication and leadership” in the area of HIV/AIDS."
+        summary: "Headed a major American (USAID) initiative on improving social and economic conditions within Macedonia and the Balkans. Activities ranged from local environment improvement, HIV/AIDS treatment and prevention, reducing human trafficking, and poverty alleviation among Roma. Mr. Parks was personally sited by both the US State Department and the Government of Macedonia for “dedication and leadership” in the area of HIV/AIDS."
       - company: Independent Consultant
         position: Independent Consultant
-        location: Paris, France and Italy
+        location: France and Italy
         start_date: 1997
         end_date: 2002
-        summary: In Palestine, worked on a Norwegian project that analyzed the economic and social impacts in Palestine’s negotiations under the Oslo Peace Accords. In Kenya, Zimbabwe and Romania worked on GEF energy efficiency policies and project finance. In the Republic of Georgia, directed a UNDP project on reducing emissions from transport fuels and development of ambient air policy. In Azerbaijan under the UNDP worked on industrial restructuring as it entered a market economy.
+        summary: Extensively involved in a Norwegian initiative that analyzed the economic and social impacts in Palestine’s negotiations under the Oslo Peace Accords. In Kenya, Zimbabwe and Romania worked on energy efficiency policies and project finance. In the Republic of Georgia, directed a UNDP project on reducing transport emissions and development of ambient air policy. In Azerbaijan under the UNDP advised on industrial restructuring as it entered a market economy.
       - company: US Department of State (USAID)
         position: Senior Environmental Investment Advisor
-        location: DC, USA
+        location: Washington DC
         start_date: 1993
         end_date: 1997
         summary: His primary focus was the implementation of USAID´s program (approximately $6 million annually) to support environmental health investments and related policy development across Central Europe. A major initiative was reducing coal related pollution in Poland, Czech Republic, and Slovakia.
 
       - company: Organization of Economic Cooperation and Development (International Energy Agency)
         position: Principal Administrator
-        location: Paris, France
+        location: Paris,France
         start_date: 1986
         end_date: 1989
-        summary: Responsible for research and providing assessments of energy trends and structural changes within the global oil and gas industry for member governments and industry
+        summary: Responsible for researching and providing assessments of energy trends and structural changes within the global oil and gas industry for member governments and industry
     Volunteer:
       - company: Major US Energy Firms
-        position: Regional Planning Manager / Corporate Coordinator / Senior Project Manager
+        position: Planning and project positions in the US upstream energy
         location: Texas, USA
         start_date: 1975
-        end_date: 1983
+        end_date: 1979
         summary: During this period, he was Regional Planning and Evaluation Manager for Occidental Petroleum; Corporate Coordinator for Economic Evaluation for El Paso Natural Gas and Senior Project Manager for Union Pacific Corporation energy division.
    
         #location: Zurich, Switzerland
